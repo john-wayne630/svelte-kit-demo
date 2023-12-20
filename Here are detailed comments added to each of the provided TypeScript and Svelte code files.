@@ -1,0 +1,14 @@
+// Import required functions and plugins from the corresponding modules.
+import { sveltekit } from '@sveltejs/kit/vite';
+import { defineConfig } from 'vitest/config';
+
+// Export the Vitest configuration as the default export.
+export default defineConfig({
+	// Include the SvelteKit plugin in the Vite configuration.
+	plugins: [sveltekit()],
+	// Configure the testing framework by including all test files within the `src` directory
+	// that have a file extension matching `test` or `spec` and a language of JavaScript or TypeScript.
+	test: {
+		include: ['src/**/*.{test,spec}.{js,ts}']
+	}
+});
