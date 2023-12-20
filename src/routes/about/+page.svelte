@@ -6,12 +6,14 @@
 <div class="text-column">
 	<h1>About this app</h1>
 
+    <!-- Added paragraph with lorem ipsum -->
 	<p>
-		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app. You can make your own by typing the
-		following into your command line and following the prompts:
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 	</p>
-
-	<pre>npm create svelte@latest</pre>
+    
+	<p>
+		This app is meant to serve as a demonstration of the capabilities of a modern web application. The source code can be accessed on its repository, feel free to explore it and contribute.
+	</p>
 
 	<p>
 		The page you're looking at is purely static HTML, with no client-side interactivity needed.
@@ -20,7 +22,7 @@
 	</p>
 
 	<p>
-		The <a href="/sverdle">Sverdle</a> page illustrates SvelteKit's data loading and form handling. Try
-		using it with JavaScript disabled!
+		For a live demonstration of features like dynamic routes and data fetching, be sure to check out the other pages.
 	</p>
 </div>
+
