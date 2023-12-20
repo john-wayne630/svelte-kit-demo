@@ -7,11 +7,10 @@
 	<h1>About this app</h1>
 
 	<p>
-		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app. You can make your own by typing the
-		following into your command line and following the prompts:
+		This is a web application. You can make your own by starting with a modern JavaScript framework.
 	</p>
 
-	<pre>npm create svelte@latest</pre>
+	<pre>npm create your-app</pre>
 
 	<p>
 		The page you're looking at is purely static HTML, with no client-side interactivity needed.
@@ -20,7 +19,7 @@
 	</p>
 
 	<p>
-		The <a href="/sverdle">Sverdle</a> page illustrates SvelteKit's data loading and form handling. Try
-		using it with JavaScript disabled!
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
 	</p>
 </div>
+
